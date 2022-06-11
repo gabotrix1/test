@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "364050557024",
+    "project_id": "agency-marketing",
+    "storage_bucket": "agency-marketing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364050557024:android:e1b10639ffb85795c9bb05",
+        "android_client_info": {
+          "package_name": "Agency.marketing.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364050557024-dp8jakrkhsquc0t0rkuokmcn9icsl0r7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Agency.marketing.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "364050557024-thjm4g3plnpc96uiodklfv211eapk4ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvzPOhLS0oW6rLPRuooAHM_1SwA-WElJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364050557024-thjm4g3plnpc96uiodklfv211eapk4ki.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "364050557024-d9d9jtli5s0pojhhr99kjai8kd0dunc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Agency.marketing.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
